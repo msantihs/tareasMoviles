@@ -1,16 +1,8 @@
 # tarea1_5
+El objetivo del ejercicio siguiente es repasar el uso de los widgets más comunes.
 
-A new Flutter project.
+![image](https://github.com/msantihs/tareasMoviles/assets/107600077/797819d3-e919-4e37-aa0b-3ad23af8b61f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Agregar un tercer botón que reinicie el contador y lo pase a 0.
+- Cambiar los colores de la aplicación.
+- Cambiar el texto del appbar de la aplicación. 
