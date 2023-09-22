@@ -55,7 +55,7 @@ class _FoodDetailState extends State<FoodDetail> {
               height: MediaQuery.of(context).size.height / 3,
               decoration: BoxDecoration(
                   image: DecorationImage(
-                      image: NetworkImage(widget.iteminfo.imageUrl),
+                      image: AssetImage(widget.iteminfo.imageUrl),
                       fit: BoxFit.fill)),
             ),
             Padding(

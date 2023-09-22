@@ -17,7 +17,7 @@ class Item extends StatelessWidget {
           ClipRRect(
               borderRadius: BorderRadius.circular(10),
               child: Image(
-                image: NetworkImage(iteminfo.imageUrl),
+                image: AssetImage(iteminfo.imageUrl),
                 fit: BoxFit.cover,
                 height: MediaQuery.of(context).size.height / 4,
                 width: MediaQuery.of(context).size.width,
